@@ -22,10 +22,10 @@ hackathon or competition entry. A few grew past that.
 
 ## Team
 
-- **Himath** — [@HimathX](https://github.com/HimathX)
-- **Haren** — [@codevector-2003](https://github.com/codevector-2003)
-- **Himahi Sithija** — [@Nivin-Sithija](https://github.com/Nivin-Sithija)
-- **Himandhi** — [@himandhik](https://github.com/himandhik)
+- **Himath Nimpura** — [@HimathX](https://github.com/HimathX)
+- **Haren Daishika** — [@codevector-2003](https://github.com/codevector-2003)
+- **Nivin Sithija** — [@Nivin-Sithija](https://github.com/Nivin-Sithija)
+- **Himandhi Kuruppu** — [@himandhik](https://github.com/himandhik)
 
 ## Stack
 
