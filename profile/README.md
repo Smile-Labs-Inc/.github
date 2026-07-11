@@ -32,6 +32,7 @@ and turning it into something people can actually use.
 - **Himath** — [@HimathX](https://github.com/HimathX)
 - **Haren** — [@codevector-2003](https://github.com/codevector-2003)
 - **Himahi Sithija** — [@Nivin-Sithija](https://github.com/Nivin-Sithija)
+- **Himandhi** — [@himandhik](https://github.com/himandhik)
 
 ## Stack
 
